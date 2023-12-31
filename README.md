@@ -5,10 +5,6 @@ Este proyecto es una página web adaptable a dispositivos de distintos tamaños 
 El propósito de esta página web es mostrar el portafolio de proyectos a lo largo de mi carrera en Artes digitales. Incluye una descripción breve de mi motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
 
 
-### Capturas de pantalla:
-
-P
-
 Esta página web fue creada con:
 
 * HTML
